@@ -1,6 +1,7 @@
 #20th Jan,2015
 #author:Rashid feroz[rashid.2008feroz@gmail.com]
 #website:Hackwhiz.com
+#Desc: Works only if the user has selected remember me and is login into facebook from firefox.
 
 import os
 import psutil
