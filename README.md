@@ -4,7 +4,8 @@ It steals facebook login cookies from firefox's cookie database[cookies.sqlite] 
 After stealing the cookies it also removes the cookies from the DB so that the victim will not be able to end that particular
 session and the attacker can continue to use it till the victim changes his password or ends all his session from the account settings tab.
 
-This is not a full fledged malware code, It's just a demo to show how easily anyone can hack into your account.
+This is not a full fledged malware code, It's just a demo to show how easily someone can hack into your account without even 
+entering your login info.
 You can code it in your own language of choice and make it more advanced and stealth.
 Still, it's antivirus detection ratio is 0 or say it's FUD because it does not contain any virus signatures nor does
 it perform any such malicious activity which the antivirus can find malicious.
