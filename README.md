@@ -14,9 +14,10 @@ The code is written in python and you can make changes and convert it into a sin
 It sends the data back to the attacker using a PHP code hosted on a website.
 It's a simple cookie logger php script which I have included here.
  
-It's full description is here:  
+It's full description is here:  http://hackwhiz.com/2015/01/facebook-cookie-stealing-and-session-hijacking/
 
 How to setup:
+
 1.setup the cookie logger PHP script on your webhost.
 
 2.change the url field in the malware code.
