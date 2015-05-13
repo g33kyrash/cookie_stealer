@@ -1,4 +1,4 @@
-# The author will not take any responsibilty if you misuse it in any way. This code is only for demonstartion purpose.
+# Disclaimer - The author will not take any responsibilty if you misuse it in any way. This code is only for educational purpose.
 
 It steals facebook login cookies from firefox's cookie database[cookies.sqlite] and sends the cookie data back to the attacker.
 After stealing the cookies it also removes the cookies from the DB so that the victim will not be able to end that particular
